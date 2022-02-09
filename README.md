@@ -1,6 +1,6 @@
 # lamp-env
 
-Set up lamp environment.
+You can set up lamp environment.
 
 linux(debian)+apache+mysql8.0+php7.3.
 
